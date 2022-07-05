@@ -9,7 +9,7 @@ import com.prova.model.Conta;
 
 /**
  * Aplicação destinada à resolução do problema elaborado pela primeira prova na trilha cloud da Let's Code.
- *
+ * @author Adriano Dutra - F0171491 && Victor Rotta - F9524403
  */
 public class Aplicacao 
 {
